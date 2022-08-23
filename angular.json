@@ -170,6 +170,9 @@
           }
         }
       }
-    }},
-  "defaultProject": "FireAdmin"
+    }
+  },
+  "cli": {
+    "analytics": false
+  }
 }
